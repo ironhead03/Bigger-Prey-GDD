@@ -1,3 +1,3 @@
 # Bigger-Prey-GDD
 
-Design document for game Bigger Prey
+Game design document for the Bigger Prey game
